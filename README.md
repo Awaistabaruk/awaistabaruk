@@ -19,9 +19,14 @@ I enjoy learning new technologies and improving my coding skills every day.
 Classic Tic Tac Toe game with two-player mode, winner detection, and reset functionality.  
 **Live Demo:** [Play the Game](https://awaistabaruk.github.io/tic-tac-toe/)
 
-### [Portfolio Website](https://github.com/awais-tabarak/portfolio)  
-My personal portfolio showcasing my projects and skills.  
-**Live Demo:** [View Portfolio](https://awais-tabarak.github.io/portfolio/)
+
+### [Weather Pakistan Web](https://github.com/awaistabaruk/weather-pakistan)  
+A web application that provides the **current weather** and a **4-day forecast** for any city in Pakistan using the **Open-Meteo API**.  
+**Live Demo:** [View Project](https://awaistabaruk.github.io/weather-pakistan/)  
+**Technologies:** HTML, CSS, JavaScript, Open-Meteo API  
+**Features:** Search any city, view current weather, 4-day forecast, user-friendly 
+
+![Weather Pakistan Web](https://raw.githubusercontent.com/awaistabaruk/weather-pakistan/main/images/testing.png)
 
 *(Add more projects here as you complete them)*
 
