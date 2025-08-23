@@ -15,9 +15,14 @@ I enjoy learning new technologies and improving my coding skills every day.
 ---
 
 ## 📂 Featured Projects
+
 ### [Tic Tac Toe](https://github.com/awaistabaruk/tic-tac-toe)  
 Classic Tic Tac Toe game with two-player mode, winner detection, and reset functionality.  
 **Live Demo:** [Play the Game](https://awaistabaruk.github.io/tic-tac-toe/)
+**Technologies:** HTML, CSS, JavaScript  
+**Features:** Two-player gameplay, simple interface, user-friendly design  
+
+<img src="https://raw.githubusercontent.com/awaistabaruk/tic-tac-toe/main/images/screenshot.png" width="200" />
 
 
 ### [Weather Pakistan Web](https://github.com/awaistabaruk/weather-pakistan)  
@@ -28,8 +33,6 @@ A web application that provides the **current weather** and a **4-day forecast**
 
 <img src="https://raw.githubusercontent.com/awaistabaruk/weather-pakistan/main/images/testing.png" width="300" />
 
-
-*(Add more projects here as you complete them)*
 
 ---
 
