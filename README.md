@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Awais Tabarak 👋
 
-<!--
-**Awaistabaruk/awaistabaruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I'm a **BS Software Engineering** student passionate about **Frontend Development**.  
+I build **interactive and fun web projects** using **HTML, CSS, and JavaScript**.  
+I enjoy learning new technologies and improving my coding skills every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Frontend:** HTML, CSS, JavaScript  
+- **Tools:** Git & GitHub, VS Code 
+- **Other:** Continuous Learner, Problem Solving
+
+---
+
+## 📂 Featured Projects
+### [Tic Tac Toe](https://github.com/awaistabaruk/tic-tac-toe)  
+Classic Tic Tac Toe game with two-player mode, winner detection, and reset functionality.  
+**Live Demo:** [Play the Game](https://awaistabaruk.github.io/tic-tac-toe/)
+
+### [Portfolio Website](https://github.com/awais-tabarak/portfolio)  
+My personal portfolio showcasing my projects and skills.  
+**Live Demo:** [View Portfolio](https://awais-tabarak.github.io/portfolio/)
+
+*(Add more projects here as you complete them)*
+
+---
+
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/awais-tabaruk-6a0b31327) | [GitHub]( https://github.com/Awaistabaruk)
+
+---
+
+⭐ If you like my projects, don’t forget to **star** them!
