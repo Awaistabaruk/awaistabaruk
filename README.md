@@ -19,10 +19,11 @@ I enjoy learning new technologies and improving my coding skills every day.
 ### [Tic Tac Toe](https://github.com/awaistabaruk/tic-tac-toe)  
 Classic Tic Tac Toe game with two-player mode, winner detection, and reset functionality.  
 **Live Demo:** [Play the Game](https://awaistabaruk.github.io/tic-tac-toe/)
+
 **Technologies:** HTML, CSS, JavaScript  
 **Features:** Two-player gameplay, simple interface, user-friendly design  
 
-<img src="https://raw.githubusercontent.com/awaistabaruk/tic-tac-toe/main/images/screenshot.png" width="200" />
+<img src="https://raw.githubusercontent.com/awaistabaruk/tic-tac-toe/main/screenshot.png" width="300" />
 
 
 ### [Weather Pakistan Web](https://github.com/awaistabaruk/weather-pakistan)  
