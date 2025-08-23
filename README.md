@@ -1,4 +1,4 @@
-# Hi, I'm Awais Tabarak 👋
+# Hi, I'm Awais Tabaruk 👋
 
 ## 💻 About Me
 I'm a **BS Software Engineering** student passionate about **Frontend Development**.  
