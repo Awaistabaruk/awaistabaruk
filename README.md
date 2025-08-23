@@ -26,7 +26,8 @@ A web application that provides the **current weather** and a **4-day forecast**
 **Technologies:** HTML, CSS, JavaScript, Open-Meteo API  
 **Features:** Search any city, view current weather, 4-day forecast, user-friendly 
 
-![Weather Pakistan Web](https://raw.githubusercontent.com/awaistabaruk/weather-pakistan/main/images/testing.png)
+<img src="https://raw.githubusercontent.com/awaistabaruk/weather-pakistan/main/images/testing.png" width="300" />
+
 
 *(Add more projects here as you complete them)*
 
