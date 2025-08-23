@@ -23,7 +23,7 @@ Classic Tic Tac Toe game with two-player mode, winner detection, and reset funct
 **Technologies:** HTML, CSS, JavaScript  
 **Features:** Two-player gameplay, simple interface, user-friendly design  
 
-<img src="https://raw.githubusercontent.com/awaistabaruk/tic-tac-toe/main/screenshot.png" width="300" />
+<img src="https://raw.githubusercontent.com/awaistabaruk/tic-tac-toe/main/Screenshot.png" width="300" />
 
 
 ### [Weather Pakistan Web](https://github.com/awaistabaruk/weather-pakistan)  
