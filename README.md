@@ -23,7 +23,7 @@ Classic Tic Tac Toe game with two-player mode, winner detection, and reset funct
 
 **Live Demo:** [Play the Game](https://awaistabaruk.github.io/tic-tac-toe/)
 
-<img src="https://raw.githubusercontent.com/awaistabaruk/tic-tac-toe/main/Screenshot.png" width="300" />
+<img src="https://raw.githubusercontent.com/awaistabaruk/tic-tac-toe/main/tictactoe.png" width="300" />
 
 
 ### [Weather Pakistan Web](https://github.com/awaistabaruk/weather-pakistan)  
