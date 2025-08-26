@@ -23,8 +23,9 @@ Classic Tic Tac Toe game with two-player mode, winner detection, and reset funct
 
 **Live Demo:** [Play the Game](https://awaistabaruk.github.io/tic-tac-toe/)
 
-<img src="https://raw.githubusercontent.com/awaistabaruk/tic-tac-toe/main/tictactoe.png" width="300" />
+<img src="https://raw.githubusercontent.com/awaistabaruk/tic-tac-toe/main/assets/tictactoe.png" width="300" />
 
+---
 
 ### [Weather Pakistan Web](https://github.com/awaistabaruk/weather-pakistan)  
 A web application that provides the **current weather** and a **4-day forecast** for any city in Pakistan using the **Open-Meteo API**.  
@@ -34,6 +35,18 @@ A web application that provides the **current weather** and a **4-day forecast**
 **Live Demo:** [View Project](https://awaistabaruk.github.io/weather-pakistan/)  
 
 <img src="https://raw.githubusercontent.com/awaistabaruk/weather-pakistan/main/images/testing.png" width="300" />
+
+
+---
+### [Cooksy Resturant Web](https://github.com/awaistabaruk/)  
+**Cooksy Restaurant Website Project** – a fully responsive, modern, and elegant static website built using **HTML and  CSS**.  
+The website consists of multiple pages (Home, About, Menu, and Contact) and is designed responsive.  
+## 🛠️ Technologies Used
+- **HTML5** – Provides structure and semantic meaning to the pages.  
+- **CSS3** – Used for styling, layout, and responsiveness. 
+
+**Live Demo:** [View Project](https://awaistabaruk.github.io/Cooksy-resturant-web/)  
+
 
 
 ---
