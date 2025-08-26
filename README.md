@@ -38,16 +38,25 @@ A web application that provides the **current weather** and a **4-day forecast**
 
 
 ---
-### [Cooksy Resturant Web](https://github.com/awaistabaruk/)  
-**Cooksy Restaurant Website Project** – a fully responsive, modern, and elegant static website built using **HTML and  CSS**.  
+### [Cooksy Resturant Web](https://github.com/Awaistabaruk/Cooksy-resturant-web/)  
+Cooksy Restaurant Website Project – a fully responsive, modern, and elegant static website built using HTML and  CSS.  
 The website consists of multiple pages (Home, About, Menu, and Contact) and is designed responsive.  
-## 🛠️ Technologies Used
+**Technologies Used**
 - **HTML5** – Provides structure and semantic meaning to the pages.  
 - **CSS3** – Used for styling, layout, and responsiveness. 
 
 **Live Demo:** [View Project](https://awaistabaruk.github.io/Cooksy-resturant-web/)  
 
 
+---
+
+### [Eduford University Web clone](https://github.com/Awaistabaruk/Eduford-uni-web)  
+Eduford University Clone Website built using HTML & CSS, focusing on clean structure, styling, and beginner-friendly design.
+**Technologies Used**
+- **HTML5** – Provides structure and semantic meaning to the pages.  
+- **CSS3** – Used for styling, layout, and responsiveness. 
+
+**Live Demo:** [View Project](https://awaistabaruk.github.io/Eduford-uni-web/)  
 
 ---
 
